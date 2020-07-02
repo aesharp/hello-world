@@ -1,2 +1,5 @@
 # hello-world
-Following the GitHub exercise guide. 
+
+Hi Y'all! 
+
+Aesharp here just making some edits.
